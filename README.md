@@ -1,6 +1,6 @@
 # Detector de Tipo de Triángulo
 
-¡Bienvenido al Detector de Tipo de Triángulo! Este programa en Swift determina el tipo de un triángulo basado en las longitudes de sus lados.
+Este programa en Swift determina el tipo de un triángulo basado en las longitudes de sus lados.
 
 ## Características
 - Detecta si el triángulo es Equilátero, Isósceles o Escaleno
