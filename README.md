@@ -16,7 +16,7 @@ Este programa en Swift determina el tipo de un triángulo basado en las longitud
 1. **Clonar el Repositorio:**
     ```bash
     git clone https://github.com/tu-usuario/detector-tipo-triangulo.git
-    cd detector-tipo-triangulo
+    cd verify-triangle
     ```
 
 2. **Ejecutar el Programa con Python:**
