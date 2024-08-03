@@ -8,7 +8,7 @@ Este programa en Swift determina el tipo de un triángulo basado en las longitud
 - Proporciona una entrada de consola intuitiva y fácil de usar
 
 ## Requisitos Previos
-- Swift 5.x
+- Instalar Swift 5.x
 - Python 3.x
 - Una terminal o interfaz de línea de comandos
 
